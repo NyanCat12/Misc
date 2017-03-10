@@ -9,7 +9,8 @@ Label = []
 i = 1
 length = len(TrainFile.readlines())
 TrainFile.seek(0)
-
+#样本维度:
+#ID，游戏时长，最高等级，是否加入公会，获取元宝，消耗元宝，手动打副本次数，获取铜钱，消耗铜钱，消耗体力，登录次数，完成成就数，最高战力，副本失败数，商城购买次数，商城购买消耗元宝，商城购买道具数
 while i < (length+1):
     test = TrainFile.readline()[:-1]
     a = test.split(';')
