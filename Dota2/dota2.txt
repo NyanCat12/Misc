@@ -6,8 +6,8 @@ https://api.steampowered.com/IDOTA2Match_570/
 
 http://dev.dota2.com/showthread.php?t=58317
 
-http://api.steampowered.com/IDOTA2Match_205790/GetMatchHistory/v1/?key=5FCFE7231DD0EBCEAF9F5940DAF413E7&hero_id=14&min_players=10&tournament_games_only=True
+http://api.steampowered.com/IDOTA2Match_570/GetMatchHistory/v1/?key=5FCFE7231DD0EBCEAF9F5940DAF413E7&hero_id=14&min_players=10&tournament_games_only=True&matches_requested=200
 
 API list:http://api.steampowered.com/ISteamWebAPIUtil/GetSupportedAPIList/v0001/?key=5FCFE7231DD0EBCEAF9F5940DAF413E7
 
-http://api.steampowered.com/IDOTA2Match_205790/GetMatchHistory/v1/?key=5FCFE7231DD0EBCEAF9F5940DAF413E7&steam_id=129751586&skill=1
+http://api.steampowered.com/IDOTA2Match_570/GetMatchHistory/v1/?key=5FCFE7231DD0EBCEAF9F5940DAF413E7&steam_id=129751586&skill=1
